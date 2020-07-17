@@ -21,3 +21,8 @@
 <a href=https://instagram.com/haarshn target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="haarshn" height="40" width="40" /></a>
 </p>
 
+
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=haarsh24 alt=haarsh24/> </p>
+
+<p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=haarsh24&show_icons=true alt=haarsh24 /> </p>
+
