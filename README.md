@@ -3,8 +3,8 @@
 ### 
 ###  <p align="left"> <img src="https://komarev.com/ghpvc/?username=haarsh24" alt="haarsh24" /> </p>
 
-###  🔭 I’m currently working on E-commerce application created using React,Node and MongoDB.
-###  🌱 I’m currently learning Machine learning.
+###  🔭 I’m currently working on Covid-19 Tracker using Angular.
+###  🌱 I’m currently learning Angular and Spring Boot.
 ###  👯 In my free time i like to play guitar and produce music.
 
 ###  ⚡ Fun fact :  **Coffee over Chai**
