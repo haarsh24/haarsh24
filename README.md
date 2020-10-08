@@ -1,5 +1,5 @@
 # Hi there 👋
-## I am <a href="https:/kumarharsh.tech/"> Harsh </a> , a software developer from India .
+## I am <a href="https://kumarharsh.tech/"> Harsh </a> , a software developer from India .
 ### 
 ###  <p align="left"> <img src="https://komarev.com/ghpvc/?username=haarsh24" alt="haarsh24" /> </p>
 
