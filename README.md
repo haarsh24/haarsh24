@@ -7,7 +7,8 @@
 ###  🌱 I’m currently learning Blockchain and cloud computing.
 ###  👯 In my free time i like to play guitar and produce music.
 
-
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 ## Connect with me :
