@@ -15,6 +15,7 @@
 <p align="left">
 <a href=https://linkedin.com/in/https://www.linkedin.com/in/kumarharshn/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="https://www.linkedin.com/in/kumarharshn/" height="40" width="40" /></a>
 <a href=https://instagram.com/haarshn target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="haarshn" height="40" width="40" /></a>
+  <a href=https://twitter.com/codeandchords target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="haarshn" height="40" width="40" /></a>
 </p>
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=haarsh24&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
