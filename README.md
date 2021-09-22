@@ -1,5 +1,5 @@
 # Hi there 👋
-## I am <a href="https://kumarharsh.tech/"> Harsh </a> , a Full Stack developer from India .
+## I am <a href="https://kumarharsh.netlify.app/"> Harsh </a> , a Full Stack developer from India .
 ### 
 ###  <p align="left"> <img src="https://komarev.com/ghpvc/?username=haarsh24" alt="haarsh24" /> </p>
 
@@ -11,7 +11,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ## Connect with me :
-
 <p align="left">
 <a href=https://linkedin.com/in/https://www.linkedin.com/in/kumarharshn/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="https://www.linkedin.com/in/kumarharshn/" height="40" width="40" /></a>
 <a href=https://instagram.com/haarshn target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="haarshn" height="40" width="40" /></a>
