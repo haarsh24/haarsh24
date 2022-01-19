@@ -3,8 +3,7 @@
 ### 
 ###  <p align="left"> <img src="https://komarev.com/ghpvc/?username=haarsh24" alt="haarsh24" /> </p>
 
-###  🔭 I’m currently working on LInkedin Clone using React Js.
-###  🌱 I’m currently learning Blockchain and cloud computing.
+###  🔭 I’m currently Learning Frontend Development.
 ###  👯 In my free time i like to play guitar and produce music.
 
 ## 😂 Here is a random joke that'll make you laugh!
