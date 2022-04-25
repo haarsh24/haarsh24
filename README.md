@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/codeandchords" target="blank"><img src="https://img.shields.io/twitter/follow/codeandchords?logo=twitter&style=for-the-badge" alt="codeandchords" /></a> </p>
 <h3>  🔭 I’m currently Learning Frontend Development. </h3>
 <h3>  👯 In my free time i sleep. </h3>
-<h3>  👯 I'm a sneakerHead ,so I've created this .<h3> I am <a href="https://sneakerxclub.netlify.app/"> SneakerXClub</a>  </h3>
+<h3>  👟 I'm a sneakerHead ,so I've created this  <a href="https://sneakerxclub.netlify.app/"> SneakerXClub</a>  </h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/codeandchords" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codeandchords" height="30" width="40" /></a>
