@@ -17,5 +17,9 @@
 <h2> 😂 Here is a random joke that'll make you laugh! </h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haarsh24&show_icons=true&locale=en" alt="haarsh24" /></p>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=haarsh24&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)
+## Github Stats
+
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=haarsh24&show_icons=true&theme=radical)
 
