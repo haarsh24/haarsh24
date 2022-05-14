@@ -1,5 +1,6 @@
-# Hi there 👋
-<h3> I am <a href="https://kumarharsh.netlify.app/"> Harsh </a> , Frontend Developer from India . </h3>
+<p align="center"><img src="https://github.com/haarsh24/haarsh24/blob/master/hello-there.png" /></p>
+<!-- # Hi there 👋
+<h3> I am <a href="https://kumarharsh.netlify.app/"> Harsh </a> , Frontend Developer from India . </h3> -->
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=haarsh24" alt="haarsh24" /> </p>
 <p align="left"> <a href="https://twitter.com/codeandchords" target="blank"><img src="https://img.shields.io/twitter/follow/codeandchords?logo=twitter&style=for-the-badge" alt="codeandchords" /></a> </p>
 <h3>  🔭 I’m currently Learning Frontend Development. </h3>
