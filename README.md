@@ -1,6 +1,6 @@
 # KUMAR HARSH
 
-**Senior AI Agent Engineer***Debugging AI Agents so you don't have to.*
+**Senior AI Agent Engineer***.  Debugging AI Agents so you don't have to.*
 
 ---
 
