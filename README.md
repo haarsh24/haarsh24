@@ -1,92 +1,52 @@
-# hey ,
+# KUMAR HARSH
 
-*I'm a  developer who accidentally wandered into AI and decided to stay.*
-
-No more boring CRUD apps and pixel-perfect divs (okay… maybe a few).
-This space is where **frontend meets AI, and experiments occasionally become real products.**
+**Senior AI Agent Engineer***Debugging AI Agents so you don't have to.*
 
 ---
 
-## 🤖 What’s Cooking Right Now
+### [01] PROFILE
 
-* Training my brain on **AI, Machine Learning & Data Science**
-* Building apps that don’t just respond… they *think* (sometimes better than me)
-* Turning random ideas into projects at 2AM
-* Debugging life with `console.log("why tho")`
+I bridge the gap between deep technical research and intuitive digital experiences. Currently engineering autonomous agent systems and ML solutions at Allianz Technology. Based in Bengaluru, IN.
 
----
+### [02] CORE_STACK
 
-## 🚀 Current Builds & Experiments
-
-* 🎧 **Spotify Clone**
-  Because clearly the world needed *one more* music app.
-
-* 👟 **SneakerXClub**
-  A sneaker marketplace for people who say
-  *“I don’t need more shoes”* and then buy more shoes
-  👉 https://sneakerxclub.netlify.app/
-
-* ✍️ **Blogs**
-  Where I pretend I fully understand things:
-  👉 https://haarsh.hashnode.dev/
-
----
-
-## 🧠 What I Actually Enjoy Building
-
-* AI-powered tools that feel slightly illegal
-* Data-driven apps that make decisions for you
-* Clean UIs hiding chaotic backend logic
-* Side projects that spiral into full products
-
----
-
-## ⚡ Tech Stack (a.k.a. my personality traits)
-
-```bash
-Frontend:   React, Angular, Redux, TypeScript
-Backend:    Node.js, Express, Spring
-Database:   MongoDB, PostgreSQL, MySQL, Oracle, MSSQL
-Tools:      Firebase, Webpack, Babel
-Currently:  AI, ML, Data Science 🧠
+```
+AI/ML      : LLM Orchestration, RAG, Vector DBs, LangChain
+LANGS      : Python, TypeScript, JavaScript, Java
+FRONTEND   : React, Tailwind CSS, Canvas API
+BACKEND    : Node.js, Spring, PostgreSQL
 ```
 
----
+### [03] ACTIVE_BUILDS
 
-## 🌐 Find Me on the Internet
+- **Memory** / Long-term context engine for autonomous agents.
 
-* Twitter: https://twitter.com/codeandchords
-* LinkedIn: https://linkedin.com/in/kumarharshn
-* Instagram: https://instagram.com/haarshn
+- **Quick Reply AI** / Intelligent agentic communication assistant.
 
----
+- **MemeGenius** / Multimodal AI meme generator [Gemini Vision].
 
-## 🧙‍♂️ The Developer Lore
+- **SmoothRide** / Mobility platform with liquid UI transitions.
 
-This repo (and most of my life choices) is maintained by **Harsh**.
+- **AsciiMe** / Real-time image-to-ASCII stream converter.
 
-### About Harsh:
+### [04] EXPERIENCE
 
-* Writes code that works… eventually
-* Has more side projects than free time
-* Believes every bug is just a “feature in beta”
-* Probably debugging something right now
+- **Allianz Tech** / Senior AI Agent Engineer [Current]
 
-> Legend says if you open his GitHub at 2AM,
-> you’ll find a new project that didn’t exist at 1:59.
+- **Dassault Systèmes** / AI Researcher & R&D Engineer
 
----
+- **UST** / Software Developer [IoT & Web]
 
-## 🛠️ Setup (If You’re Curious)
+### [05] CONNECT
 
-```bash
-npm install
-npm run dev
-```
+- [Website](https://kumarharsh.in)
 
-If it doesn’t work, don’t worry —
-it works on my machine 👍
+- [LinkedIn](https://linkedin.com/in/kumarharshn)
+
+- [Twitter](https://twitter.com/codeandchords)
+
+- [Hashnode](https://haarsh.hashnode.dev/)
 
 ---
 
-**Made with caffeine, curiosity, and questionable sleep cycles ☕**
+*Made with caffeine and curiosity.*
