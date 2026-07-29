@@ -1,52 +1,54 @@
-# KUMAR HARSH
+<div align="center">
 
-**Senior AI Agent Engineer***.  Debugging AI Agents so you don't have to.*
+# Hey, I'm Harsh 👋
 
----
+**AI Agent Engineer** building autonomous agents, LLM tooling, and clean interfaces around them.
 
-### [01] PROFILE
+📍 Bengaluru, India · [kumarharsh.in](https://kumarharsh.in)
 
-I bridge the gap between deep technical research and intuitive digital experiences. Currently engineering autonomous agent systems and ML solutions at Allianz Technology. Based in Bengaluru, IN.
+</div>
 
-### [02] CORE_STACK
+
+## Currently
+
+- Building **AI agent systems** — LLM orchestration, RAG, vector-based memory
+- Shipping side projects fast: idea → prototype → deployed, usually in a weekend
+- Deep in **Data Science & ML** fundamentals alongside the applied work
+
+
+## Featured Projects
+
+**🧠 [Memory](https://memory.kumarharsh.in/)** — long-term memory & context retention engine for LLM agents. Persistent state, semantic recall, multi-turn context.
+`Python` `Vector DB` `LLM`
+
+**🤖 [Quick Reply AI](https://replybro.kumarharsh.in/)** — context-aware AI reply generator.
+`LangChain` `Python` `OpenAI`
+
+**🎭 [MemeGenius AI](https://memegenius.kumarharsh.in/)** — AI meme generator that understands context, tone, and humor.
+`Gemini Vision` `Multimodal`
+
+**⚡ [Hiccup](https://hiccups.kumarharsh.in/)** — hosted API that deliberately misbehaves (latency, errors, drops) for testing retry & timeout logic.
+`Gemini` `React`
+
+**🎨 [AsciiMe](https://asciime.kumarharsh.in/)** — real-time image/video to ASCII art converter.
+`TypeScript` `Canvas API`
+
+**🚗 [SmoothRide](https://smoothride.kumarharsh.in/)** — ride platform with liquid UI transitions and live route simulation.
+`React` `JavaScript`
+
+More on [github.com/haarsh24](https://github.com/haarsh24)
+
+
+## Stack
 
 ```
-AI/ML      : LLM Orchestration, RAG, Vector DBs, LangChain
-LANGS      : Python, TypeScript, JavaScript, Java
-FRONTEND   : React, Tailwind CSS, Canvas API
-BACKEND    : Node.js, Spring, PostgreSQL
+AI / ML       LLM Orchestration · RAG · Vector DBs · Prompt Engineering · Gemini · Agents
+Frontend      React · TypeScript · Redux
+Backend       Node.js · Express · Spring Boot
+Database      PostgreSQL · MongoDB · MySQL
 ```
 
-### [03] ACTIVE_BUILDS
 
-- **Memory** / Long-term context engine for autonomous agents.
+## Connect
 
-- **Quick Reply AI** / Intelligent agentic communication assistant.
-
-- **MemeGenius** / Multimodal AI meme generator [Gemini Vision].
-
-- **SmoothRide** / Mobility platform with liquid UI transitions.
-
-- **AsciiMe** / Real-time image-to-ASCII stream converter.
-
-### [04] EXPERIENCE
-
-- **Allianz Tech** / Senior AI Agent Engineer [Current]
-
-- **Dassault Systèmes** / AI Researcher & R&D Engineer
-
-- **UST** / Software Developer [IoT & Web]
-
-### [05] CONNECT
-
-- [Website](https://kumarharsh.in)
-
-- [LinkedIn](https://linkedin.com/in/kumarharshn)
-
-- [Twitter](https://twitter.com/codeandchords)
-
-- [Hashnode](https://haarsh.hashnode.dev/)
-
----
-
-*Made with caffeine and curiosity.*
+[Portfolio](https://kumarharsh.in) · [LinkedIn](https://linkedin.com/in/kumarharshn) · [X](https://x.com/bhaksaalaa)
